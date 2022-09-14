@@ -4,7 +4,7 @@ Stack: HTML / CSS / SCSS / BEM
 
 [FIGMA DESIGN](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version)
 
-* Desktop 1280px
-* Tablet 640px
+* Desktop (>1022px)
+* Tablet (>640px)
 * Mobile (> 320px)
 
